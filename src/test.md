@@ -6,4 +6,6 @@ rebase練習 #2
 
 rebase練習 #1
 
+test2
+
 test
